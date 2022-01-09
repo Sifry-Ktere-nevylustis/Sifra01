@@ -1,2 +1,1 @@
-# Sifra01
-all rights reserved Marko 2022
+all rights reserved to Marko 2022
